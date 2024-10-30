@@ -1,0 +1,29 @@
+#leasecloud_signatory_email,
+#leasecloud_org_nr,
+.leasecloud_label,
+#selected_payment_length {
+    width: 100%;
+}
+#leasecloud-checkout-tariffs li input,
+#leasecloud_signatory {
+    margin-right: 5px;
+}
+
+label[for='leasecloud_org_nr'],
+label[for='selected_payment_length'],
+#leasecloud_signatory_text {
+    padding-top: 10px;
+}
+#selected_payment_length {
+    margin-bottom: 10px;
+}
+
+.wc_payment_method label[for='payment_method_leasecloud'] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+label[for='payment_method_leasecloud'] img {
+    width: 64px;
+    height: 12px;
+}

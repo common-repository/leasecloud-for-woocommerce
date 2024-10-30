@@ -1,0 +1,423 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: LeaseCloud for WooCommerce\n"
+"POT-Creation-Date: 2019-01-14 09:45+0100\n"
+"PO-Revision-Date: 2019-01-14 09:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: lease-cloud-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/class-leasecloud-calculate-tariffs.php:21
+msgid "for"
+msgstr ""
+
+#: classes/class-leasecloud-calculate-tariffs.php:21
+msgid "months excl VAT"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:17
+#: classes/class-leasecloud-gateway.php:45
+msgid "LeaseCloud"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:18
+msgid "LeaseCloud payment solution for WooCommerce."
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:59
+msgid ""
+"You have not yet gotten your tariffs. Please fill in an API key and get them "
+"now."
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:60
+msgid "Get tariffs"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:65
+msgid "Finance company"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:66
+msgid "Available LeaseCloud Tariff lengths"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:68
+#: includes/function-add-to-order-details.php:30
+#: includes/function-add-to-order-details.php:51
+#: includes/function-single-order-page.php:48
+msgid "Months"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:69
+msgid "Tariffs"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:76
+msgid "Update tariffs"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:164
+msgid "Organisation Number"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:171
+msgid "I do not have the authority to sign for the firm"
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:174
+msgid ""
+"Enter the email address we can use to send the leasing contract for the "
+"order."
+msgstr ""
+
+#: classes/class-leasecloud-gateway.php:200
+msgid "Company name required"
+msgstr ""
+
+#: classes/class-leasecloud-post-checkout.php:27
+msgid ""
+"Could not activate the order with LeaseCloud, it has already been activated"
+msgstr ""
+
+#: classes/class-leasecloud-post-checkout.php:35
+msgid "The order has been shipped and activated with LeaseCloud"
+msgstr ""
+
+#: classes/class-leasecloud-post-checkout.php:38
+#, php-format
+msgid "There was a problem with activating the order with LeaseCloud: %s"
+msgstr ""
+
+#: classes/class-leasecloud-post-checkout.php:54
+msgid ""
+"Could not cancel the order with LeaseCloud, the order has already been "
+"canceled."
+msgstr ""
+
+#: classes/class-leasecloud-post-checkout.php:63
+msgid "The order has been canceled with LeaseCloud"
+msgstr ""
+
+#: classes/class-leasecloud-post-checkout.php:66
+#, php-format
+msgid "There was a problem with canceling the order with LeaseCloud: %s"
+msgstr ""
+
+#: classes/class-leasecloud-product-type.php:149
+msgid "Leasable"
+msgstr ""
+
+#: classes/class-leasecloud-product-type.php:151
+msgid "Not Leasable"
+msgstr ""
+
+#: classes/class-leasecloud-product-type.php:158
+msgid "Leasable product for LeaseCloud"
+msgstr ""
+
+#: classes/class-leasecloud-product-type.php:160
+msgid "Not a leasable product for LeaseCloud"
+msgstr ""
+
+#: classes/class-leasecloud-webhooks.php:68
+msgid "The order has been accepted by LeaseCloud"
+msgstr ""
+
+#: classes/class-leasecloud-webhooks.php:78
+#, php-format
+msgid "The order has been rejected by LeaseCloud. Reason: %s"
+msgstr ""
+
+#: classes/class-leasecloud-webhooks.php:89
+msgid "The order has been signed by the customer and can now be processed"
+msgstr ""
+
+#: classes/class-leasecloud-webhooks.php:100
+msgid "The order has been received by the customer."
+msgstr ""
+
+#: classes/widget/class-leasecloud-select-payment-length.php:25
+msgid ""
+"Let the customer decide what payment length they want to be used to display "
+"the prices"
+msgstr ""
+
+#: classes/widget/class-leasecloud-select-payment-length.php:28
+msgid "Select payment length"
+msgstr ""
+
+#: classes/widget/class-leasecloud-select-payment-length.php:41
+msgid "Payment length"
+msgstr ""
+
+#: classes/widget/class-leasecloud-select-payment-length.php:59
+msgid "months"
+msgstr ""
+
+#: includes/function-add-product-list-column.php:12
+msgid "Leaseable"
+msgstr ""
+
+#: includes/function-add-to-order-details.php:25
+#: includes/function-change-price-display.php:55
+#: includes/function-change-price-display.php:81
+msgid "Monthly payment"
+msgstr ""
+
+#: includes/function-add-to-order-details.php:26
+msgid "month"
+msgstr ""
+
+#: includes/function-add-to-order-details.php:29
+#: includes/function-add-to-order-details.php:50
+msgid "Leasing length"
+msgstr ""
+
+#: includes/function-add-to-order-details.php:82
+#, php-format
+msgid "via %s"
+msgstr ""
+
+#: includes/function-add-to-order-details.php:95
+#: includes/function-change-price-display.php:80
+#: includes/function-change-price-display.php:229
+msgid "/month"
+msgstr ""
+
+#: includes/function-change-price-display.php:231
+msgid "excl VAT"
+msgstr ""
+
+#: includes/function-process-checkout-fields.php:17
+msgid "Please enter an organisation number before you complete the order"
+msgstr ""
+
+#: includes/function-process-checkout-fields.php:19
+msgid "Please enter a valid organisation number"
+msgstr ""
+
+#: includes/function-process-checkout-fields.php:23
+msgid "Please select a lease plan"
+msgstr ""
+
+#: includes/function-single-order-page.php:19
+msgid "LeaseCloud order"
+msgstr ""
+
+#: includes/function-single-order-page.php:48
+msgid "Tariff"
+msgstr ""
+
+#: includes/function-single-order-page.php:53
+msgid "Status"
+msgstr ""
+
+#: includes/function-single-order-page.php:59
+msgid "LeaseCloud has accepted the order."
+msgstr ""
+
+#: includes/function-single-order-page.php:62
+msgid "The order has been signed by the customer."
+msgstr ""
+
+#: includes/function-single-order-page.php:65
+msgid "The order has been shipped."
+msgstr ""
+
+#: includes/function-single-order-page.php:68
+msgid "The order has been recieved by the customer."
+msgstr ""
+
+#: includes/function-single-order-page.php:71
+msgid ""
+"LeaseCloud has declined the order. The reason will be emailed to you soon. "
+"Sorry."
+msgstr ""
+
+#: includes/function-single-order-page.php:74
+msgid "The order has been cancelled with LeaseCloud"
+msgstr ""
+
+#: includes/function-single-order-page.php:79
+msgid "Message"
+msgstr ""
+
+#: includes/function-single-order-page.php:85
+msgid "Could not fetch statuses"
+msgstr ""
+
+#: includes/function-single-order-page.php:88
+msgid "Have questions? visit"
+msgstr ""
+
+#: includes/function-single-order-page.php:88
+msgid "LeaseCloud support"
+msgstr ""
+
+#: includes/function-single-order-page.php:91
+msgid "Visit"
+msgstr ""
+
+#: includes/function-single-order-page.php:91
+msgid "Leasecloud.se"
+msgstr ""
+
+#: includes/function-single-order-page.php:97
+msgid "Org Nr"
+msgstr ""
+
+#: includes/leasecloud-settings.php:11
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/leasecloud-settings.php:13
+msgid "Enable LeaseCloud"
+msgstr ""
+
+#: includes/leasecloud-settings.php:17
+msgid "Description"
+msgstr ""
+
+#: includes/leasecloud-settings.php:19
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/leasecloud-settings.php:20
+msgid "Pay using LeaseCloud."
+msgstr ""
+
+#: includes/leasecloud-settings.php:24
+msgid "LeaseCloud API Key"
+msgstr ""
+
+#: includes/leasecloud-settings.php:26
+msgid "Enter your LeaseCloud API Key"
+msgstr ""
+
+#: includes/leasecloud-settings.php:31
+msgid "LeaseCloud Webhook key"
+msgstr ""
+
+#: includes/leasecloud-settings.php:33
+msgid "Enter your LeaseCloud Webhook key"
+msgstr ""
+
+#: includes/leasecloud-settings.php:38
+msgid "Lease only shop"
+msgstr ""
+
+#: includes/leasecloud-settings.php:40
+msgid "Display all prices in the shop / cart and emails as leasing prices"
+msgstr ""
+
+#: includes/leasecloud-settings.php:44
+msgid "Default leasable product."
+msgstr ""
+
+#: includes/leasecloud-settings.php:46
+msgid ""
+"Check this box if you want to default all products as leasable(can be "
+"overwriten on each product.)"
+msgstr ""
+
+#: includes/leasecloud-settings.php:50
+msgid "Shop page price display"
+msgstr ""
+
+#: includes/leasecloud-settings.php:52
+msgid "Display price per month in the category and shop pages"
+msgstr ""
+
+#: includes/leasecloud-settings.php:55 includes/leasecloud-settings.php:65
+msgid "Standard (product price)"
+msgstr ""
+
+#: includes/leasecloud-settings.php:56 includes/leasecloud-settings.php:66
+msgid "Both"
+msgstr ""
+
+#: includes/leasecloud-settings.php:60
+msgid "Single product price display"
+msgstr ""
+
+#: includes/leasecloud-settings.php:62
+msgid "Display price per month on the single product pages"
+msgstr ""
+
+#: includes/leasecloud-settings.php:70
+msgid "Test Mode Settings"
+msgstr ""
+
+#: includes/leasecloud-settings.php:74
+msgid "Debug"
+msgstr ""
+
+#: includes/leasecloud-settings.php:76
+msgid "Enable logging."
+msgstr ""
+
+#: includes/leasecloud-settings.php:77
+#, php-format
+msgid "Log LeaseCloud events, in <code>%s</code>"
+msgstr ""
+
+#: includes/leasecloud-settings.php:81
+msgid "Environment"
+msgstr ""
+
+#: includes/leasecloud-settings.php:82
+msgid "Option to make calls to test but requires different api keys"
+msgstr ""
+
+#: includes/leasecloud-settings.php:86
+msgid "Live / Production"
+msgstr ""
+
+#: includes/leasecloud-settings.php:87
+msgid "Test server"
+msgstr ""
+
+#: includes/leasecloud-settings.php:95
+msgid "Default tariff"
+msgstr ""
+
+#: includes/leasecloud-settings.php:96
+msgid "The default tariffs to use for the display of monthly costs"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "LeaseCloud for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://krokedil.se/produkt/leasecloud/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extends WooCommerce. Provides a <a href=\"https://https://www.leasecloud.se/"
+"\" target=\"_blank\">LeaseCloud</a> checkout for WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Krokedil"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://krokedil.se/"
+msgstr ""

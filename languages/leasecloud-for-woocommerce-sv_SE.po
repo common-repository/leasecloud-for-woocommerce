@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeaseCloud for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-14 09:45+0100\n"
+"PO-Revision-Date: 2019-01-14 09:51+0100\n"
+"Last-Translator: admin <dev-email@flywheel.local>\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2\n"
+
+#: classes/class-leasecloud-calculate-tariffs.php:21
+msgid "for"
+msgstr "i"
+
+#: classes/class-leasecloud-calculate-tariffs.php:21
+msgid "months excl VAT"
+msgstr "månader exkl moms"
+
+#: classes/class-leasecloud-gateway.php:17
+#: classes/class-leasecloud-gateway.php:45
+msgid "LeaseCloud"
+msgstr "LeaseCloud"
+
+#: classes/class-leasecloud-gateway.php:18
+msgid "LeaseCloud payment solution for WooCommerce."
+msgstr "LeaseCloud betalmodul för WooCommerce."
+
+#: classes/class-leasecloud-gateway.php:59
+msgid ""
+"You have not yet gotten your tariffs. Please fill in an API key and get them "
+"now."
+msgstr ""
+"Du har ännu inte hämtat dina tariffer. Vänligen fyll i en API-nyckel och få "
+"dem nu."
+
+#: classes/class-leasecloud-gateway.php:60
+msgid "Get tariffs"
+msgstr "Hämta tariffer"
+
+#: classes/class-leasecloud-gateway.php:65
+msgid "Finance company"
+msgstr "Finansbolag"
+
+#: classes/class-leasecloud-gateway.php:66
+msgid "Available LeaseCloud Tariff lengths"
+msgstr "Tillgängliga LeaseCloud avtalstider"
+
+#: classes/class-leasecloud-gateway.php:68
+#: includes/function-add-to-order-details.php:30
+#: includes/function-add-to-order-details.php:51
+#: includes/function-single-order-page.php:48
+msgid "Months"
+msgstr "Månader"
+
+#: classes/class-leasecloud-gateway.php:69
+msgid "Tariffs"
+msgstr "Tariffer"
+
+#: classes/class-leasecloud-gateway.php:76
+msgid "Update tariffs"
+msgstr "Uppdatera tariffer"
+
+#: classes/class-leasecloud-gateway.php:164
+msgid "Organisation Number"
+msgstr "Organisationsnummer"
+
+#: classes/class-leasecloud-gateway.php:171
+msgid "I do not have the authority to sign for the firm"
+msgstr "Jag är inte firmatecknare"
+
+#: classes/class-leasecloud-gateway.php:174
+msgid ""
+"Enter the email address we can use to send the leasing contract for the "
+"order."
+msgstr "Ange epostadress till firmatecknare för avtalssignering."
+
+#: classes/class-leasecloud-gateway.php:200
+msgid "Company name required"
+msgstr "Företagsnamn krävs"
+
+#: classes/class-leasecloud-post-checkout.php:27
+msgid ""
+"Could not activate the order with LeaseCloud, it has already been activated"
+msgstr "Kunde inte aktivera ordern i LeaseCloud, den är redan aktiv"
+
+#: classes/class-leasecloud-post-checkout.php:35
+msgid "The order has been shipped and activated with LeaseCloud"
+msgstr "Ordern är skickad och aktiverad i LeaseCloud"
+
+#: classes/class-leasecloud-post-checkout.php:38
+#, php-format
+msgid "There was a problem with activating the order with LeaseCloud: %s"
+msgstr "Det uppstod ett problem med att aktivera ordern i LeaseCloud: %s"
+
+#: classes/class-leasecloud-post-checkout.php:54
+msgid ""
+"Could not cancel the order with LeaseCloud, the order has already been "
+"canceled."
+msgstr "Kunde inte avbryta ordern i LeaseCloud, den är redan avbruten."
+
+#: classes/class-leasecloud-post-checkout.php:63
+msgid "The order has been canceled with LeaseCloud"
+msgstr "Ordern har avbrutits av LeaseCloud"
+
+#: classes/class-leasecloud-post-checkout.php:66
+#, php-format
+msgid "There was a problem with canceling the order with LeaseCloud: %s"
+msgstr "Det uppstod ett problem med att avbryta ordern i LeaseCloud: %s"
+
+#: classes/class-leasecloud-product-type.php:149
+msgid "Leasable"
+msgstr "Hyrbar"
+
+#: classes/class-leasecloud-product-type.php:151
+msgid "Not Leasable"
+msgstr "Inte hyrbar"
+
+#: classes/class-leasecloud-product-type.php:158
+msgid "Leasable product for LeaseCloud"
+msgstr "Hyrbar produkt med LeaseCloud"
+
+#: classes/class-leasecloud-product-type.php:160
+msgid "Not a leasable product for LeaseCloud"
+msgstr "Inte en hyrbar product med LeaseCloud"
+
+#: classes/class-leasecloud-webhooks.php:68
+msgid "The order has been accepted by LeaseCloud"
+msgstr "Ordern är bekräftad av LeaseCloud"
+
+#: classes/class-leasecloud-webhooks.php:78
+#, php-format
+msgid "The order has been rejected by LeaseCloud. Reason: %s"
+msgstr "Ordern har nekats i LeaseCloud. Skäl: %s"
+
+#: classes/class-leasecloud-webhooks.php:89
+msgid "The order has been signed by the customer and can now be processed"
+msgstr "Ordern har blivit signerad av kunden och kan nu behandlas"
+
+#: classes/class-leasecloud-webhooks.php:100
+msgid "The order has been received by the customer."
+msgstr "Ordern har mottagits av kunden."
+
+#: classes/widget/class-leasecloud-select-payment-length.php:25
+msgid ""
+"Let the customer decide what payment length they want to be used to display "
+"the prices"
+msgstr ""
+"Låt kunden bestämma vilken betalningslängd som används för att visa priserna"
+
+#: classes/widget/class-leasecloud-select-payment-length.php:28
+msgid "Select payment length"
+msgstr "Välj betallängd"
+
+#: classes/widget/class-leasecloud-select-payment-length.php:41
+msgid "Payment length"
+msgstr "Betallängd"
+
+#: classes/widget/class-leasecloud-select-payment-length.php:59
+msgid "months"
+msgstr "månader"
+
+#: includes/function-add-product-list-column.php:12
+msgid "Leaseable"
+msgstr "Hyrbar"
+
+#: includes/function-add-to-order-details.php:25
+#: includes/function-change-price-display.php:55
+#: includes/function-change-price-display.php:81
+msgid "Monthly payment"
+msgstr "Företagsleasing"
+
+#: includes/function-add-to-order-details.php:26
+msgid "month"
+msgstr "månad"
+
+#: includes/function-add-to-order-details.php:29
+#: includes/function-add-to-order-details.php:50
+msgid "Leasing length"
+msgstr "Avtalslängd"
+
+#: includes/function-add-to-order-details.php:82
+#, php-format
+msgid "via %s"
+msgstr "via %s"
+
+#: includes/function-add-to-order-details.php:95
+#: includes/function-change-price-display.php:80
+#: includes/function-change-price-display.php:229
+msgid "/month"
+msgstr "/månad"
+
+#: includes/function-change-price-display.php:231
+msgid "excl VAT"
+msgstr "exkl moms"
+
+#: includes/function-process-checkout-fields.php:17
+msgid "Please enter an organisation number before you complete the order"
+msgstr "Ange organisationsnumret innan du lägger ordern"
+
+#: includes/function-process-checkout-fields.php:19
+msgid "Please enter a valid organisation number"
+msgstr "Ange ett giltigt organisationsnummer"
+
+#: includes/function-process-checkout-fields.php:23
+msgid "Please select a lease plan"
+msgstr "Vänligen välj ett avtal"
+
+#: includes/function-single-order-page.php:19
+msgid "LeaseCloud order"
+msgstr "LeaseCloud order"
+
+#: includes/function-single-order-page.php:48
+msgid "Tariff"
+msgstr "Tariff"
+
+#: includes/function-single-order-page.php:53
+msgid "Status"
+msgstr "Status"
+
+#: includes/function-single-order-page.php:59
+msgid "LeaseCloud has accepted the order."
+msgstr "LeaseCloud har accepterat ordern."
+
+#: includes/function-single-order-page.php:62
+msgid "The order has been signed by the customer."
+msgstr "Ordern har signerats av kunden."
+
+#: includes/function-single-order-page.php:65
+msgid "The order has been shipped."
+msgstr "Ordern har skickats till frakt."
+
+#: includes/function-single-order-page.php:68
+msgid "The order has been recieved by the customer."
+msgstr "Ordern har mottagits av kund."
+
+#: includes/function-single-order-page.php:71
+msgid ""
+"LeaseCloud has declined the order. The reason will be emailed to you soon. "
+"Sorry."
+msgstr ""
+"LeaseCloud har tyvärr nekat ordern. Orsaken kommer mailas till dig inom kort."
+
+#: includes/function-single-order-page.php:74
+msgid "The order has been cancelled with LeaseCloud"
+msgstr "Ordern har avbryts med LeaseCloud"
+
+#: includes/function-single-order-page.php:79
+msgid "Message"
+msgstr "Meddelande"
+
+#: includes/function-single-order-page.php:85
+msgid "Could not fetch statuses"
+msgstr "Kunde inte hämta statusar"
+
+#: includes/function-single-order-page.php:88
+msgid "Have questions? visit"
+msgstr "Har du frågor? Besök"
+
+#: includes/function-single-order-page.php:88
+msgid "LeaseCloud support"
+msgstr "LeaseCloud support"
+
+#: includes/function-single-order-page.php:91
+msgid "Visit"
+msgstr "Besök"
+
+#: includes/function-single-order-page.php:91
+msgid "Leasecloud.se"
+msgstr "Leasecloud.se"
+
+#: includes/function-single-order-page.php:97
+msgid "Org Nr"
+msgstr "Org Nr"
+
+#: includes/leasecloud-settings.php:11
+msgid "Enable/Disable"
+msgstr "Aktivera/inaktivera"
+
+#: includes/leasecloud-settings.php:13
+msgid "Enable LeaseCloud"
+msgstr "Aktivera LeaseCloud"
+
+#: includes/leasecloud-settings.php:17
+msgid "Description"
+msgstr "Beskrivning"
+
+#: includes/leasecloud-settings.php:19
+msgid "This controls the description which the user sees during checkout."
+msgstr "Denna beskrivning ser kunden i kassan."
+
+#: includes/leasecloud-settings.php:20
+msgid "Pay using LeaseCloud."
+msgstr "Betala genom LeaseCloud."
+
+#: includes/leasecloud-settings.php:24
+msgid "LeaseCloud API Key"
+msgstr "LeaseCloud API nyckel"
+
+#: includes/leasecloud-settings.php:26
+msgid "Enter your LeaseCloud API Key"
+msgstr "Ange din LeaseCloud API nyckel"
+
+#: includes/leasecloud-settings.php:31
+msgid "LeaseCloud Webhook key"
+msgstr "LeaseCloud Webhook nyckel"
+
+#: includes/leasecloud-settings.php:33
+msgid "Enter your LeaseCloud Webhook key"
+msgstr "Ange din LeaseCloud Webhook nyckel"
+
+#: includes/leasecloud-settings.php:38
+msgid "Lease only shop"
+msgstr "Endast leasingshop"
+
+#: includes/leasecloud-settings.php:40
+msgid "Display all prices in the shop / cart and emails as leasing prices"
+msgstr "Visa alla priser i butiken / kundvagnen samt email som leasingpriser"
+
+#: includes/leasecloud-settings.php:44
+msgid "Default leasable product."
+msgstr "Standard hyrbar produkt."
+
+#: includes/leasecloud-settings.php:46
+msgid ""
+"Check this box if you want to default all products as leasable(can be "
+"overwriten on each product.)"
+msgstr ""
+"Ticka denna låda om ni vill att alla produkter ska vara hyrbara som "
+"standard(kan skrivas över på varje produkt.)"
+
+#: includes/leasecloud-settings.php:50
+msgid "Shop page price display"
+msgstr "Prisvisning på shopsida"
+
+#: includes/leasecloud-settings.php:52
+msgid "Display price per month in the category and shop pages"
+msgstr "Visa månadspriser på kategori och shopsidor"
+
+#: includes/leasecloud-settings.php:55 includes/leasecloud-settings.php:65
+msgid "Standard (product price)"
+msgstr "Standard (produktpris)"
+
+#: includes/leasecloud-settings.php:56 includes/leasecloud-settings.php:66
+msgid "Both"
+msgstr "Båda"
+
+#: includes/leasecloud-settings.php:60
+msgid "Single product price display"
+msgstr "Prisvisning på produktsida"
+
+#: includes/leasecloud-settings.php:62
+msgid "Display price per month on the single product pages"
+msgstr "Visa månadspriser på produktsidor"
+
+#: includes/leasecloud-settings.php:70
+msgid "Test Mode Settings"
+msgstr "Inställning för testläge"
+
+#: includes/leasecloud-settings.php:74
+msgid "Debug"
+msgstr "Debug"
+
+#: includes/leasecloud-settings.php:76
+msgid "Enable logging."
+msgstr "Aktivera loggning."
+
+#: includes/leasecloud-settings.php:77
+#, php-format
+msgid "Log LeaseCloud events, in <code>%s</code>"
+msgstr "Logga LeaseCloud händelser i <code>%s</code>"
+
+#: includes/leasecloud-settings.php:81
+msgid "Environment"
+msgstr "Miljö"
+
+#: includes/leasecloud-settings.php:82
+msgid "Option to make calls to test but requires different api keys"
+msgstr "Alternativ för att göra anrop till test, kräver annan api nyckel"
+
+#: includes/leasecloud-settings.php:86
+msgid "Live / Production"
+msgstr "Live / Produktion"
+
+#: includes/leasecloud-settings.php:87
+msgid "Test server"
+msgstr "Testläge"
+
+#: includes/leasecloud-settings.php:95
+msgid "Default tariff"
+msgstr "Standard tariff"
+
+#: includes/leasecloud-settings.php:96
+msgid "The default tariffs to use for the display of monthly costs"
+msgstr "Standardtariffer för visning av månadspriser"
+
+#. Plugin Name of the plugin/theme
+msgid "LeaseCloud for WooCommerce"
+msgstr "LeaseCloud för WooCommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://krokedil.se/produkt/leasecloud/"
+msgstr "https://krokedil.se/produkt/leasecloud/"
+
+#. Description of the plugin/theme
+msgid ""
+"Extends WooCommerce. Provides a <a href=\"https://https://www.leasecloud.se/"
+"\" target=\"_blank\">LeaseCloud</a> checkout for WooCommerce."
+msgstr ""
+"Utökar WooCommerce. Ger en <a href=\"https://https://www.leasecloud.se/\" "
+"target=\"_blank\">LeaseCloud</a> checkout för WooCommerce."
+
+#. Author of the plugin/theme
+msgid "Krokedil"
+msgstr "Krokedil"
+
+#. Author URI of the plugin/theme
+msgid "https://krokedil.se/"
+msgstr "https://krokedil.se/"
+
+#~ msgid "Monthly payment:"
+#~ msgstr "Företagsleasing:"
+
+#~ msgid " Months"
+#~ msgstr " Månader"
+
+#~ msgid "Months: "
+#~ msgstr "Månader: "
+
+#~ msgid "Tariff: "
+#~ msgstr "Tariff: "
+
+#~ msgid "Display only price per month in the cart"
+#~ msgstr "Visa endast månadskostnad i kundvagn"
+
+#~ msgid "LeaseCloud Message: "
+#~ msgstr "LeaseClouds meddelande: "
+
+#~ msgid "Cart display price per month"
+#~ msgstr "Visa månadskostnad i kundvagn"
+
+#~ msgid "Mini cart display price per month"
+#~ msgstr "Mini cart visning av pris på månad."
+
+#~ msgid "Display price per month in the mini cart"
+#~ msgstr "Visa priser per månad i mini carten."
+
+#~ msgid "Enable Test mode for LeaseCloud."
+#~ msgstr "Aktivera testläge för LeaseCloud."

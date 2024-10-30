@@ -1,0 +1,5 @@
+{
+    "require": {
+        "leasecloud/leasecloud-php-sdk": "^1.2"
+    }
+}
